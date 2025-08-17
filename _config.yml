@@ -28,6 +28,7 @@ author:
   bio              : "CS PhD student at UMD"
   location         : "College Park, MD"
   employer         : "CASL"
+  employer_url     : "https://www.casl.cs.umd.edu"  # Add your employer's website URL here
   uri              : # URL
   email            : "dhjoo98@umd.edu" 
 
@@ -62,7 +63,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : dhjoo98
+  linkedin         : dhjoo
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
