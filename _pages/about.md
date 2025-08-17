@@ -1,11 +1,12 @@
 ---
 permalink: /
-title: "Hi, I'm Donghyeon Joo, researching Support for Sparse LLMs."
+title: " "
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Hi, I'm Donghyeon Joo, researching **Support for Sparse LLMs**.
 
 This includes:
 - Deriving sparsity in LLM weights and KV cache (mainly unstructured sparsity these days)
