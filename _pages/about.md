@@ -8,11 +8,17 @@ redirect_from:
 ---
 
 <div style="text-align: center; margin-bottom: 2rem;">
-  <h1 style="font-size: 2.5rem; color: #2c3e50; margin-bottom: 0.5rem;">👋 Hi, I'm Donghyeon Joo</h1>
+  <h1 style="font-size: 2.5rem; color: #2c3e50; margin-bottom: 0.5rem;">Hi, I'm Donghyeon Joo</h1>
   <p style="font-size: 1.3rem; color: #7f8c8d; font-style: italic; margin-bottom: 2rem;">Researching <strong style="color: #e74c3c;">Support for Sparse LLMs</strong></p>
 </div>
 
-<div style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); padding: 2rem; border-radius: 15px; margin-bottom: 2rem; border-left: 5px solid #3498db;">
+<div style="background: #ffffff; padding: 2rem; border-radius: 15px; margin-bottom: 2rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <p style="font-size: 1.1rem; line-height: 1.6; margin: 0;">
+    I am a second year Ph.D. Student in University of Maryland, College Park, advised by Professor <a href="https://cs.umd.edu/~bahar/" style="color: #e74c3c; text-decoration: none; font-weight: bold;">Bahar Asgari</a> in <a href="https://casl.cs.umd.edu/" style="color: #2980b9; text-decoration: none; font-weight: bold;">Computer Architecture and Systems Lab (CASL)</a>.
+  </p>
+</div>
+
+<div style="background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%); padding: 2rem; border-radius: 15px; margin-bottom: 2rem;">
   <h3 style="color: #2c3e50; margin-top: 0; margin-bottom: 1rem;">🔬 Research Focus</h3>
   <ul style="list-style: none; padding-left: 0;">
     <li style="margin-bottom: 0.8rem; padding-left: 1.5rem; position: relative;">
@@ -27,23 +33,19 @@ redirect_from:
   </ul>
 </div>
 
-<div style="background: #ffffff; padding: 2rem; border-radius: 15px; margin-bottom: 2rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-left: 5px solid #27ae60;">
-  <p style="font-size: 1.1rem; line-height: 1.6; margin: 0;">
-    I am a second year <strong style="color: #27ae60;">Ph.D. Student</strong> in <strong style="color: #2980b9;">University of Maryland, College Park</strong>, advised by Professor <a href="https://cs.umd.edu/~bahar/" style="color: #e74c3c; text-decoration: none; font-weight: bold;">Bahar Asgari</a> in <a href="https://casl.cs.umd.edu/" style="color: #2980b9; text-decoration: none; font-weight: bold;">Computer Architecture and Systems Lab (CASL)</a>.
-  </p>
-</div>
+
 
 ---
 
 ## 📚 Publications
 
-<div style="background: #f8f9fa; padding: 1rem; border-radius: 10px; margin-bottom: 1rem; border-left: 4px solid #f39c12;">
-  <p style="font-style: italic; color: #7f8c8d; margin: 0; text-align: center;">
+<div style="background: #f8f9fa; padding: 1rem; border-radius: 10px; margin-bottom: 1rem;">
+  <p style="color: #7f8c8d; margin: 0; text-align: center;">
     <span style="color: #e74c3c;">⭐</span> I am a huge Star Wars fan, on a personal mission to name my papers with memorable planet names from the prequel/original trilogy <span style="color: #e74c3c;">⭐</span>
   </p>
 </div>
 
-### 🎯 Conference Papers
+### Conference Papers
 <div style="background: #fff; padding: 1.5rem; border-radius: 10px; margin-bottom: 1.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.05); border-left: 4px solid #3498db;">
   <h4 style="color: #2c3e50; margin-top: 0; margin-bottom: 1rem; font-size: 1.2rem;">
     <span style="color: #e74c3c;">🌌</span> <strong>CORUSCANT: Co-Designing GPU Kernel and Sparse Tensor Core to Advocate Unstructured Sparsity in Efficient LLM Inference</strong>
@@ -61,7 +63,7 @@ redirect_from:
   <p style="margin: 0; color: #7f8c8d;"><em>DAC 2025</em></p>
 </div>
 
-### 📖 Journal Papers
+### Journal Papers
 <div style="background: #fff; padding: 1.5rem; border-radius: 10px; margin-bottom: 1.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.05); border-left: 4px solid #27ae60;">
   <h4 style="color: #2c3e50; margin-top: 0; margin-bottom: 1rem; font-size: 1.2rem;">
     <span style="color: #27ae60;">📄</span> <strong>SEGIN: Synergistically Enabling Fine-Grained Multi-Tenant and Resource Optimized SpMV</strong>
@@ -70,7 +72,7 @@ redirect_from:
   <p style="margin: 0; color: #7f8c8d;"><em>CAL 2025</em></p>
 </div>
 
-### 🔬 Preprints
+### Preprints
 <div style="background: #fff; padding: 1.5rem; border-radius: 10px; margin-bottom: 1.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.05); border-left: 4px solid #f39c12;">
   <h4 style="color: #2c3e50; margin-top: 0; margin-bottom: 1rem; font-size: 1.2rem;">
     <span style="color: #f39c12;">🔥</span> <strong>MUSTAFAR: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference</strong>
