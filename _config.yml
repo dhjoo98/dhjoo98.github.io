@@ -27,8 +27,8 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "CS PhD student at UMD"
   location         : "College Park, MD"
-  employer         : "CASL"
-  employer_url     : "https://www.casl.cs.umd.edu"  # Add your employer's website URL here
+  employer         : "Computer Architecture and Systems Lab (CASL)"
+  employer_url     : "https://casl.cs.umd.edu"  # Add your employer's website URL here
   uri              : # URL
   email            : "dhjoo98@umd.edu" 
 
