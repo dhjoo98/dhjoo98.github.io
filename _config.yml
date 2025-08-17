@@ -22,7 +22,7 @@ repository               : "dhjoo98/dhjoo98.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "/images/DSC_2184.jpg"
+  avatar           : "images/DSC_2184.jpg"
   name             : "Donghyeon Joo"
   pronouns         : # example: "she/her"  
   bio              : "CS PhD student at UMD"

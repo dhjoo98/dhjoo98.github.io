@@ -15,6 +15,8 @@ This includes:
 
 I am a second year Ph.D. Student in University of Maryland, College Park, advised by Professor Bahar Asgari in Computer Architecture and Systems Lab (CASL).
 
+I am a second year Ph.D. Student in University of Maryland, College Park, advised by Professor [Bahar Asgari](https://cs.umd.edu/~bahar/) in [Computer Architecture and Systems Lab (CASL)](https://casl.cs.umd.edu/).
+
 ## Publications
 
 *(I am a huge Star Wars fan, on a personal mission to name my papers with memorable planet names from the prequel/original trilogy)*
