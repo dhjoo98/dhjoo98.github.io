@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="text-align: center; margin-bottom: 2rem;">
   <h1 style="font-size: 2.5rem; color: #2c3e50; margin-bottom: 0.5rem;">Hi, I'm Donghyeon Joo</h1>
-  <p style="font-size: 1.3rem; color: #7f8c8d; font-style: italic; margin-bottom: 2rem;">Researching <strong style="color: #e74c3c;">Support for Sparse LLMs</strong></p>
+  <p style="font-size: 1.3rem; color: #7f8c8d; font-style: italic; margin-bottom: 2rem;">Researching <strong style="color: #e74c3c;">the Intersection of LLMs Sparsity and Computational Efficiency</strong></p>
 </div>
 
 <div style="background: #ffffff; padding: 2rem; border-radius: 15px; margin-bottom: 2rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
@@ -22,16 +22,16 @@ redirect_from:
   <h3 style="color: #2c3e50; margin-top: 0; margin-bottom: 1rem;">🔬 Research Focus</h3>
   <ul style="list-style: none; padding-left: 0;">
     <li style="margin-bottom: 0.8rem; padding-left: 1.5rem; position: relative;">
-      <span style="color: #e74c3c; font-weight: bold;">•</span> Deriving sparsity in weights and KV cache (mainly unstructured sparsity)
+      <span style="color: #e74c3c; font-weight: bold;">•</span> <strong>ML Level:</strong> Deriving sparsity in weights and KV cache to preserve model accuracy at high sparsity
     </li>
     <li style="margin-bottom: 0.8rem; padding-left: 1.5rem; position: relative;">
-      <span style="color: #e74c3c; font-weight: bold;">•</span> GPU kernel support for sparse LLMs
+      <span style="color: #e74c3c; font-weight: bold;">•</span> <strong>System Level:</strong> GPU kernel support for sparse LLMs on existing compute platforms
     </li>
     <li style="margin-bottom: 0.8rem; padding-left: 1.5rem; position: relative;">
-      <span style="color: #e74c3c; font-weight: bold;">•</span> Architecture support for sparse LLMs
+    <span style="color: #e74c3c; font-weight: bold;">•</span> <strong>Architecture Level:</strong> Novel architectural changes to better support sparsity and improve efficiency
     </li>
     <li style="margin-bottom: 0.8rem; padding-left: 1.5rem; position: relative;">
-      <span style="color: #e74c3c; font-weight: bold;">•</span> Additional efforts in LLM reasoning, dynamically reconfigurable architecture, and RAG 
+      <span style="color: #e74c3c; font-weight: bold;">•</span> Efforts in LLM reasoning, dynamically reconfigurable architecture, and RAG 
     </li>
   </ul>
 </div>
@@ -97,17 +97,17 @@ redirect_from:
 ## 🎓 Education
 
 <div style="display: flex; gap: 2rem; margin-bottom: 2rem;">
-  <div style="flex: 1; background: #fff; padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); border-left: 4px solid #3498db;">
+  <div style="flex: 1; background: #fff; padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
     <h4 style="color: #2c3e50; margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem;">
-      <span style="color: #3498db;">🏛️</span> <strong>University of Maryland, College Park</strong>
+      <span style="color: #3498db;"></span> <strong>University of Maryland, College Park</strong>
     </h4>
     <p style="margin-bottom: 0.5rem; color: #34495e;">Ph.D. Student in Computer Science</p>
     <p style="margin: 0; color: #7f8c8d;"><em>2023/Aug. – Present</em></p>
   </div>
   
-  <div style="flex: 1; background: #fff; padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05); border-left: 4px solid #27ae60;">
+  <div style="flex: 1; background: #fff; padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
     <h4 style="color: #2c3e50; margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem;">
-      <span style="color: #27ae60;">🎯</span> <strong>Korea University</strong>
+      <span style="color: #27ae60;"></span> <strong>Korea University</strong>
     </h4>
     <p style="margin-bottom: 0.5rem; color: #34495e;">Bachelor of Engineering in Electrical Engineering</p>
     <p style="margin: 0; color: #7f8c8d;"><em>2017/Mar. – 2023/Feb.</em></p>
@@ -118,7 +118,7 @@ redirect_from:
 
 ## 💼 Work Experience
 
-<div style="background: #fff; padding: 2rem; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); border-left: 5px solid #e74c3c;">
+<div style="background: #fff; padding: 2rem; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   <div style="display: flex; align-items: center; margin-bottom: 1rem;">
     <span style="font-size: 2rem; margin-right: 1rem;"></span>
     <div>
