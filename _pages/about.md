@@ -40,7 +40,7 @@ redirect_from:
 
 ## 📚 Publications
 
-<div style="background: var(--page__background-color, #f8f9fa); padding: 1rem; border-radius: 10px; margin-bottom: 1rem; border-left: 4px solid #f39c12;">
+<div style="background: var(--page__background-color, #f8f9fa); padding: 1rem; border-radius: 10px; margin-bottom: 1rem;">
   <p style="font-style: italic; color: var(--text-muted, #7f8c8d); margin: 0; text-align: center;">
     <span style="color: #e74c3c;">⭐</span> I am a huge Star Wars fan, on a personal mission to name my papers with memorable planet names from the prequel/original trilogy <span style="color: #e74c3c;">⭐</span>
   </p>
@@ -104,7 +104,8 @@ redirect_from:
   </div>
   
   <div style="flex: 1; background: var(--page__background-color, #ffffff); padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
-    <h4 style="color: #27ae60;"></span> <strong>Korea University</strong>
+    <h4 style="color: var(--text-color, #2c3e50); margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem;">
+      <span style="color: #27ae60;"></span> <strong>Korea University</strong>
     </h4>
     <p style="margin-bottom: 0.5rem; color: var(--text-color, #34495e);">Bachelor of Engineering in Electrical Engineering</p>
     <p style="margin: 0; color: var(--text-muted, #7f8c8d);"><em>2017/Mar. – 2023/Feb.</em></p>
