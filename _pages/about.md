@@ -19,7 +19,7 @@ redirect_from:
 </div>
 
 <div style="background: var(--page__background-color, #f8f9fa); padding: 2rem; border-radius: 15px; margin-bottom: 2rem; border-left: 5px solid #3498db;">
-  <h3 style="color: var(--text-color, #2c3e50); margin-top: 0; margin-bottom: 1rem;">🔬 Research Focus</h3>
+  <h3 style="color: var(--text-color, #2c3e50); margin-top: 0; margin-bottom: 1rem;">Research Focus</h3>
   <ul style="list-style: none; padding-left: 0;">
     <li style="margin-bottom: 0.8rem; padding-left: 1.5rem; position: relative; color: var(--text-color, #2c3e50);">
       <span style="color: #e74c3c; font-weight: bold;">•</span> <strong>ML Level:</strong> Deriving sparsity in weights and KV cache to preserve model accuracy at high sparsity
@@ -38,7 +38,7 @@ redirect_from:
 
 ---
 
-## 📚 Publications
+## Publications
 
 <div style="background: var(--page__background-color, #f8f9fa); padding: 1rem; border-radius: 10px; margin-bottom: 1rem;">
   <p style="font-style: italic; color: var(--text-muted, #7f8c8d); margin: 0; text-align: center;">
@@ -46,7 +46,7 @@ redirect_from:
   </p>
 </div>
 
-### 🎯 Conference Papers
+### Conference Papers
 <div style="background: var(--page__background-color, #ffffff); padding: 1.5rem; border-radius: 10px; margin-bottom: 1.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.05); border-left: 4px solid #3498db;">
   <h4 style="color: var(--text-color, #2c3e50); margin-top: 0; margin-bottom: 1rem; font-size: 1.2rem;">
     <span style="color: #e74c3c;">🌃</span> <strong>CORUSCANT: Co-Designing GPU Kernel and Sparse Tensor Core to Advocate Unstructured Sparsity in Efficient LLM Inference</strong>
@@ -64,7 +64,7 @@ redirect_from:
   <p style="margin: 0; color: var(--text-muted, #7f8c8d);"><em>DAC 2025</em></p>
 </div>
 
-### 📖 Journal Papers
+### Journal Papers
 <div style="background: var(--page__background-color, #ffffff); padding: 1.5rem; border-radius: 10px; margin-bottom: 1.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.05); border-left: 4px solid #27ae60;">
   <h4 style="color: var(--text-color, #2c3e50); margin-top: 0; margin-bottom: 1rem; font-size: 1.2rem;">
     <span style="color: #27ae60;"></span> <strong>SEGIN: Synergistically Enabling Fine-Grained Multi-Tenant and Resource Optimized SpMV</strong>
@@ -73,12 +73,13 @@ redirect_from:
   <p style="margin: 0; color: var(--text-muted, #7f8c8d);"><em>CAL 2025</em></p>
 </div>
 
-### 🔬 Preprints
+### Preprints
 <div style="background: var(--page__background-color, #ffffff); padding: 1.5rem; border-radius: 10px; margin-bottom: 1.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.05); border-left: 4px solid #f39c12;">
   <h4 style="color: var(--text-color, #2c3e50); margin-top: 0; margin-bottom: 1rem; font-size: 1.2rem;">
     <span style="color: #f39c12;">🔥</span> <strong>MUSTAFAR: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference</strong>
   </h4>
   <p style="margin-bottom: 0.5rem; color: var(--text-color, #34495e);"><strong>Authors:</strong> <u>Donghyeon Joo</u>, Helya Hosseini, Ramyad Hadidi, Bahar Asgari</p>
+  <p style="margin-bottom: 0.5rem; color: var(--text-muted, #7f8c8d);"><em><a href="https://arxiv.org/abs/2505.22913" style="display: inline-block; background: #e74c3c; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; text-decoration: none; font-size: 0.9rem; font-weight: 500; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: all 0.2s ease; margin-right: 0.5rem;">📄 arXiv</a><a href="https://github.com/dhjoo98/mustafar" style="display: inline-block; background: #333; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; text-decoration: none; font-size: 0.9rem; font-weight: 500; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: all 0.2s ease;">💻 Code</a></em></p>
   <p style="margin: 0; font-style: italic; color: #e67e22;">"Where Obi-wan had the high ground"</p>
 </div>
 
@@ -87,12 +88,13 @@ redirect_from:
     <span style="color: #f39c12;">🪴</span> <strong>ENDOR: Hardware-Friendly Sparse Format for Offloaded LLM Inference</strong>
   </h4>
   <p style="margin-bottom: 0.5rem; color: var(--text-color, #34495e);"><strong>Authors:</strong> <u>Donghyeon Joo</u>, Ramyad Hadidi, Soheil Feizi, Bahar Asgari</p>
+  <p style="margin-bottom: 0.5rem; color: var(--text-muted, #7f8c8d);"><em><a href="https://arxiv.org/abs/2406.11674" style="display: inline-block; background: #e74c3c; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; text-decoration: none; font-size: 0.9rem; font-weight: 500; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: all 0.2s ease;">📄 arXiv</a></em></p>
   <p style="margin: 0; font-style: italic; color: #e67e22;">"Where Ewoks were really cute"</p>
 </div>
 
 ---
 
-## 🎓 Education
+## Education
 
 <div style="display: flex; gap: 2rem; margin-bottom: 2rem;">
   <div style="flex: 1; background: var(--page__background-color, #ffffff); padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
@@ -114,7 +116,7 @@ redirect_from:
 
 ---
 
-## 💼 Work Experience
+## Work Experience
 
 <div style="background: var(--page__background-color, #ffffff); padding: 2rem; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   <div style="display: flex; align-items: center; margin-bottom: 1rem;">
