@@ -30,8 +30,8 @@ main:
   # - title: "CV"
   #   url: /cv-json/
     
-  # - title: "Guide"
+    # - title: "Guide"
   #   url: /markdown/
 
-
-  # Later, let's add hobby. 
+  - title: "Hobby"
+    url: /hobby/ 
