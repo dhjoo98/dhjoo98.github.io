@@ -9,7 +9,7 @@ redirect_from:
 
 <div style="text-align: center; margin-bottom: 2rem;">
   <h1 style="font-size: 2.5rem; color: #2c3e50; margin-bottom: 0.5rem;">Hi, I'm Donghyeon Joo</h1>
-  <p style="font-size: 1.3rem; color: #7f8c8d; font-style: italic; margin-bottom: 2rem;">Researching <strong style="color: #e74c3c;">the Intersection of LLMs Sparsity and Computational Efficiency</strong></p>
+  <p style="font-size: 1.3rem; color: #7f8c8d; font-style: italic; margin-bottom: 2rem;">Researching <strong style="color: #e74c3c;">the Intersection of LLM Sparsity and Compute Efficiency</strong></p>
 </div>
 
 <div style="background: #ffffff; padding: 2rem; border-radius: 15px; margin-bottom: 2rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
