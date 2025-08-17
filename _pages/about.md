@@ -14,7 +14,7 @@ redirect_from:
 
 <div style="background: var(--page__background-color, #ffffff); padding: 2rem; border-radius: 15px; margin-bottom: 2rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   <p style="font-size: 1.1rem; line-height: 1.6; margin: 0; color: var(--text-color, #2c3e50);">
-    I am a second year <strong style="color: #27ae60;">Ph.D. Student</strong> in <strong style="color: #2980b9;">University of Maryland, College Park</strong>, advised by Professor <a href="https://cs.umd.edu/~bahar/" style="color: #e74c3c; text-decoration: none; font-weight: bold;">Bahar Asgari</a> in <a href="https://casl.cs.umd.edu/" style="color: #2980b9; text-decoration: none; font-weight: bold;">Computer Architecture and Systems Lab (CASL)</a>.
+    I am a second year Ph.D. Student in University of Maryland, College Park, advised by Professor <a href="https://cs.umd.edu/~bahar/" style="color: #2980b9; text-decoration: none; font-weight: bold;">Bahar Asgari</a> in <a href="https://casl.cs.umd.edu/" style="color: #2980b9; text-decoration: none; font-weight: bold;">Computer Architecture and Systems Lab (CASL)</a>.
   </p>
 </div>
 
