@@ -31,7 +31,8 @@ author:
   employer_url     : "https://casl.cs.umd.edu"  # Add your employer's website URL here
   uri              : # URL
   email            : "dhjoo98@umd.edu" 
-  cv               : "https://drive.google.com/file/d/17kHkW9c160qQRJVh9QMtJZx3wwDMxmcA/view?usp=drive_link"  # Path to your CV file
+  #cv               : "https://drive.google.com/file/d/17kHkW9c160qQRJVh9QMtJZx3wwDMxmcA/view?usp=drive_link"  # Path to your CV file
+  cv               : "https://drive.google.com/file/d/19Jh0BAS55aPC2MZSdBJABIgj8jk5eiXH/view?usp=share_link"
 
   # Academic websites
   academia         : # URL
