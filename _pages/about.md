@@ -120,10 +120,24 @@ redirect_from:
 
 <div style="background: var(--page__background-color, #ffffff); padding: 2rem; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   <div style="display: flex; align-items: center; margin-bottom: 1rem;">
-    <span style="font-size: 2rem; margin-right: 1rem;"></span>
+    <span style="font-size: 2rem; margin-right: 1rem;">🔬</span>
+    <div>
+      <h4 style="color: var(--text-color, #2c3e50); margin: 0; font-size: 1.3rem;"><strong>AMD</strong></h4>
+      <p style="margin: 0; color: var(--text-muted, #7f8c8d); font-size: 1.1rem;">Austin, TX, USA</p>
+    </div>
+  </div>
+  <div style="background: var(--page__background-color, #f8f9fa); padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
+    <p style="margin: 0; color: var(--text-color, #34495e);"><strong>Position:</strong> Research Associate</p>
+    <p style="margin: 0; color: var(--text-muted, #7f8c8d);"><em>2024/Sep. – Present</em></p>
+  </div>
+</div>
+
+<div style="background: var(--page__background-color, #ffffff); padding: 2rem; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+  <div style="display: flex; align-items: center; margin-bottom: 1rem;">
+    <span style="font-size: 2rem; margin-right: 1rem;">🏢</span>
     <div>
       <h4 style="color: var(--text-color, #2c3e50); margin: 0; font-size: 1.3rem;"><strong>SK Hynix America</strong></h4>
-      <p style="margin: 0; color: var(--text-muted, #7f8c8d); font-size: 1.1rem;">San Jose, USA</p>
+      <p style="margin: 0; color: var(--text-muted, #7f8c8d); font-size: 1.1rem;">San Jose, CA, USA</p>
     </div>
   </div>
   <div style="background: var(--page__background-color, #f8f9fa); padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
