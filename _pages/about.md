@@ -49,6 +49,16 @@ redirect_from:
 ### Conference Papers
 <div style="background: var(--page__background-color, #ffffff); padding: 1.5rem; border-radius: 10px; margin-bottom: 1.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.05); border-left: 4px solid #3498db;">
   <h4 style="color: var(--text-color, #2c3e50); margin-top: 0; margin-bottom: 1rem; font-size: 1.2rem;">
+    <span style="color: #f39c12;">🔥</span> <strong>MUSTAFAR: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference</strong>
+  </h4>
+  <p style="margin-bottom: 0.5rem; color: var(--text-color, #34495e);"><strong>Authors:</strong> <u>Donghyeon Joo</u>, Helya Hosseini, Ramyad Hadidi, Bahar Asgari</p>
+  <p style="margin-bottom: 0.5rem; color: var(--text-muted, #7f8c8d);"><em>NeurIPS 2025 (To appear)</em></p>
+  <p style="margin-bottom: 0.5rem; color: var(--text-muted, #7f8c8d);"><em><a href="https://arxiv.org/abs/2505.22913" style="display: inline-block; background: #e74c3c; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; text-decoration: none; font-size: 0.9rem; font-weight: 500; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: all 0.2s ease; margin-right: 0.5rem;">Paper</a><a href="https://github.com/dhjoo98/mustafar" style="display: inline-block; background: #333; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; text-decoration: none; font-size: 0.9rem; font-weight: 500; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: all 0.2s ease;">Code</a></em></p>
+  <p style="margin: 0; font-style: italic; color: #e67e22;">"Where Obi-wan had the high ground"</p>
+</div>
+
+<div style="background: var(--page__background-color, #ffffff); padding: 1.5rem; border-radius: 10px; margin-bottom: 1.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.05); border-left: 4px solid #3498db;">
+  <h4 style="color: var(--text-color, #2c3e50); margin-top: 0; margin-bottom: 1rem; font-size: 1.2rem;">
     <span style="color: #e74c3c;">🌃</span> <strong>CORUSCANT: Co-Designing GPU Kernel and Sparse Tensor Core to Advocate Unstructured Sparsity in Efficient LLM Inference</strong>
   </h4>
   <p style="margin-bottom: 0.5rem; color: var(--text-color, #34495e);"><strong>Authors:</strong> <u>Donghyeon Joo</u>, Helya Hosseini, Ramyad Hadidi, Bahar Asgari</p>
@@ -74,15 +84,6 @@ redirect_from:
 </div>
 
 ### Preprints
-<div style="background: var(--page__background-color, #ffffff); padding: 1.5rem; border-radius: 10px; margin-bottom: 1.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.05); border-left: 4px solid #f39c12;">
-  <h4 style="color: var(--text-color, #2c3e50); margin-top: 0; margin-bottom: 1rem; font-size: 1.2rem;">
-    <span style="color: #f39c12;">🔥</span> <strong>MUSTAFAR: Promoting Unstructured Sparsity for KV Cache Pruning in LLM Inference</strong>
-  </h4>
-  <p style="margin-bottom: 0.5rem; color: var(--text-color, #34495e);"><strong>Authors:</strong> <u>Donghyeon Joo</u>, Helya Hosseini, Ramyad Hadidi, Bahar Asgari</p>
-  <p style="margin-bottom: 0.5rem; color: var(--text-muted, #7f8c8d);"><em><a href="https://arxiv.org/abs/2505.22913" style="display: inline-block; background: #e74c3c; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; text-decoration: none; font-size: 0.9rem; font-weight: 500; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: all 0.2s ease; margin-right: 0.5rem;">Paper</a><a href="https://github.com/dhjoo98/mustafar" style="display: inline-block; background: #333; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; text-decoration: none; font-size: 0.9rem; font-weight: 500; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: all 0.2s ease;">Code</a></em></p>
-  <p style="margin: 0; font-style: italic; color: #e67e22;">"Where Obi-wan had the high ground"</p>
-</div>
-
 <div style="background: var(--page__background-color, #ffffff); padding: 1.5rem; border-radius: 10px; margin-bottom: 1.5rem; box-shadow: 0 2px 4px rgba(0,0,0,0.05); border-left: 4px solid #f39c12;">
   <h4 style="color: var(--text-color, #2c3e50); margin-top: 0; margin-bottom: 1rem; font-size: 1.2rem;">
     <span style="color: #f39c12;">🪴</span> <strong>ENDOR: Hardware-Friendly Sparse Format for Offloaded LLM Inference</strong>
