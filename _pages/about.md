@@ -62,7 +62,8 @@ redirect_from:
     <span style="color: #e74c3c;">🌃</span> <strong>CORUSCANT: Co-Designing GPU Kernel and Sparse Tensor Core to Advocate Unstructured Sparsity in Efficient LLM Inference</strong>
   </h4>
   <p style="margin-bottom: 0.5rem; color: var(--text-color, #34495e);"><strong>Authors:</strong> <u>Donghyeon Joo</u>, Helya Hosseini, Ramyad Hadidi, Bahar Asgari</p>
-  <p style="margin-bottom: 0.5rem; color: var(--text-muted, #7f8c8d);"><em>MICRO 2025 (To appear)</em></p>
+  <p style="margin-bottom: 0.5rem; color: var(--text-muted, #7f8c8d);"><em>MICRO 2025</em></p>
+    <p style="margin-bottom: 0.5rem; color: var(--text-muted, #7f8c8d);"><em><a href="https://dl.acm.org/doi/10.1145/3725843.3756065" style="display: inline-block; background: #e74c3c; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; text-decoration: none; font-size: 0.9rem; font-weight: 500; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: all 0.2s ease; margin-right: 0.5rem;">Paper</a><a href="https://github.com/dhjoo98/coruscant" style="display: inline-block; background: #333; color: white; padding: 0.3rem 0.8rem; border-radius: 15px; text-decoration: none; font-size: 0.9rem; font-weight: 500; box-shadow: 0 2px 4px rgba(0,0,0,0.1); transition: all 0.2s ease;">Code</a></em></p>
   <p style="margin: 0; font-style: italic; color: #e67e22;">"Where Palpatine WAS the senate"</p>
 </div>
 
