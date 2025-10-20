@@ -130,6 +130,8 @@ redirect_from:
   </div>
   <div style="background: var(--page__background-color, #f8f9fa); padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
     <p style="margin: 0; color: var(--text-color, #34495e);"><strong>Position:</strong> Research Associate</p>
+    <p style="margin: 0; color: var(--text-color, #34495e);"><strong>Manager:</strong> Dr. Nuwan Jayasena</p>
+    <p style="margin: 0; color: var(--text-color, #34495e);"><strong>Mentor:</strong> Dr. Sooraj Puthoor</p>
     <p style="margin: 0; color: var(--text-muted, #7f8c8d);"><em>2024/Sep. – Present</em></p>
   </div>
 </div>
