@@ -26,11 +26,11 @@ author_profile: true
       I also dabble in surfing and piano.
     </p>
     <div style="display: flex; gap: 1.5rem; justify-content: center; flex-wrap: wrap; align-items: flex-start;">
-      <figure style="max-width: 30%; margin: 0; text-align: center;">
+      <figure style="max-width: 45%; margin: 0; text-align: center;">
         <img src="/images/surf.jpeg" alt="Surfing" style="max-width: 100%; max-height: 400px; width: auto; height: auto; object-fit: contain; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
         <figcaption style="..."></figcaption>
       </figure>
-      <div style="max-width: 30%; display: flex; flex-direction: column; gap: 1.5rem;">
+      <div style="max-width: 45%; display: flex; flex-direction: column; gap: 1.5rem;">
         <figure style="margin: 0; text-align: center;">
           <img src="/images/piano1.jpeg" alt="Piano" style="max-width: 100%; max-height: 400px; width: auto; height: auto; object-fit: contain; border-radius: 10px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
           <figcaption style="..."></figcaption>
