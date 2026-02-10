@@ -132,7 +132,7 @@ redirect_from:
     <p style="margin: 0; color: var(--text-color, #34495e);"><strong>Position:</strong> Research Associate</p>
     <p style="margin: 0; color: var(--text-color, #34495e);"><strong>Manager:</strong> Dr. Nuwan Jayasena</p>
     <p style="margin: 0; color: var(--text-color, #34495e);"><strong>Mentor:</strong> Dr. Sooraj Puthoor</p>
-    <p style="margin: 0; color: var(--text-muted, #7f8c8d);"><em>2024/Sep. – Present</em></p>
+    <p style="margin: 0; color: var(--text-muted, #7f8c8d);"><em>2025/Sep. – 2025/Dec.</em></p>
   </div>
 </div>
 
@@ -148,5 +148,25 @@ redirect_from:
     <p style="margin: 0; color: var(--text-color, #34495e);"><strong>Position:</strong> AI Memory System Research Intern</p>
     <p style="margin: 0; color: var(--text-color, #34495e);"><strong>Director:</strong> Dr. Jongryool Kim</p>
     <p style="margin: 0; color: var(--text-muted, #7f8c8d);"><em>2024/Jun. – 2024/Aug.</em></p>
+  </div>
+</div>
+
+---
+
+## Professional Service
+
+<div style="display: flex; gap: 2rem; margin-bottom: 2rem;">
+  <div style="flex: 1; background: var(--page__background-color, #ffffff); padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+    <h4 style="color: var(--text-color, #2c3e50); margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem;">
+      <strong>IEEE Micro 2025</strong>
+    </h4>
+    <p style="margin: 0; color: var(--text-color, #34495e);">Reviewer</p>
+  </div>
+
+  <div style="flex: 1; background: var(--page__background-color, #ffffff); padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+    <h4 style="color: var(--text-color, #2c3e50); margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem;">
+      <strong>MLSys 2026</strong>
+    </h4>
+    <p style="margin: 0; color: var(--text-color, #34495e);">External Reviewer</p>
   </div>
 </div>
