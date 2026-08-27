@@ -14,7 +14,7 @@ redirect_from:
 
 <div style="background: var(--page__background-color, #ffffff); padding: 2rem; border-radius: 15px; margin-bottom: 2rem; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
   <p style="font-size: 1.1rem; line-height: 1.6; margin: 0; color: var(--text-color, #2c3e50);">
-    I am a third year Ph.D. Student in University of Maryland, College Park, advised by Professor <a href="https://cs.umd.edu/~bahar/" style="color: #2980b9; text-decoration: none; font-weight: bold;">Bahar Asgari</a> in <a href="https://casl.cs.umd.edu/" style="color: #2980b9; text-decoration: none; font-weight: bold;">Computer Architecture and Systems Lab (CASL)</a>.
+    I am a fourth year Ph.D. Student in University of Maryland, College Park, advised by Professor <a href="https://cs.umd.edu/~bahar/" style="color: #2980b9; text-decoration: none; font-weight: bold;">Bahar Asgari</a> in <a href="https://casl.cs.umd.edu/" style="color: #2980b9; text-decoration: none; font-weight: bold;">Computer Architecture and Systems Lab (CASL)</a>.
   </p>
 </div>
 
@@ -120,7 +120,23 @@ redirect_from:
 
 ## Work Experience
 
-<div style="background: var(--page__background-color, #ffffff); padding: 2rem; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">
+<div style="background: var(--page__background-color, #ffffff); padding: 2rem; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-bottom: 1.5rem;">
+  <div style="display: flex; align-items: center; margin-bottom: 1rem;">
+    <span style="font-size: 2rem; margin-right: 1rem;">🍎</span>
+    <div>
+      <h4 style="color: var(--text-color, #2c3e50); margin: 0; font-size: 1.3rem;"><strong>Apple</strong></h4>
+      <p style="margin: 0; color: var(--text-muted, #7f8c8d); font-size: 1.1rem;">Seattle, WA, USA</p>
+    </div>
+  </div>
+  <div style="background: var(--page__background-color, #f8f9fa); padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
+    <p style="margin: 0; color: var(--text-color, #34495e);"><strong>Position:</strong> AIML Intern, Apple Foundation Model Team</p>
+    <p style="margin: 0; color: var(--text-color, #34495e);"><strong>Mentor:</strong> Dongseong Hwang</p>
+    <p style="margin: 0 0 0.5rem 0; color: var(--text-muted, #7f8c8d);"><em>2026/May – 2026/Aug.</em></p>
+    <p style="margin: 0; color: var(--text-color, #34495e);">Developed efficient attention algorithms for long-context foundation models.</p>
+  </div>
+</div>
+
+<div style="background: var(--page__background-color, #ffffff); padding: 2rem; border-radius: 15px; box-shadow: 0 4px 6px rgba(0,0,0,0.1); margin-bottom: 1.5rem;">
   <div style="display: flex; align-items: center; margin-bottom: 1rem;">
     <span style="font-size: 2rem; margin-right: 1rem;">🔬</span>
     <div>
@@ -132,7 +148,8 @@ redirect_from:
     <p style="margin: 0; color: var(--text-color, #34495e);"><strong>Position:</strong> Research Associate</p>
     <p style="margin: 0; color: var(--text-color, #34495e);"><strong>Manager:</strong> Dr. Nuwan Jayasena</p>
     <p style="margin: 0; color: var(--text-color, #34495e);"><strong>Mentor:</strong> Dr. Sooraj Puthoor</p>
-    <p style="margin: 0; color: var(--text-muted, #7f8c8d);"><em>2025/Sep. – 2025/Dec.</em></p>
+    <p style="margin: 0 0 0.5rem 0; color: var(--text-muted, #7f8c8d);"><em>2025/Sep. – 2025/Dec.</em></p>
+    <p style="margin: 0; color: var(--text-color, #34495e);">Explored AMD GPU architecture design space for efficient AI/ML workloads.</p>
   </div>
 </div>
 
@@ -147,7 +164,8 @@ redirect_from:
   <div style="background: var(--page__background-color, #f8f9fa); padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
     <p style="margin: 0; color: var(--text-color, #34495e);"><strong>Position:</strong> AI Memory System Research Intern</p>
     <p style="margin: 0; color: var(--text-color, #34495e);"><strong>Director:</strong> Dr. Jongryool Kim</p>
-    <p style="margin: 0; color: var(--text-muted, #7f8c8d);"><em>2024/Jun. – 2024/Aug.</em></p>
+    <p style="margin: 0 0 0.5rem 0; color: var(--text-muted, #7f8c8d);"><em>2024/Jun. – 2024/Aug.</em></p>
+    <p style="margin: 0; color: var(--text-color, #34495e);">Investigated next-generation memory architecture designs to accelerate LLM inference.</p>
   </div>
 </div>
 
