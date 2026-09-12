@@ -139,6 +139,7 @@ redirect_from:
   <div style="background: var(--page__background-color, #f8f9fa); padding: 1rem; border-radius: 8px; margin-bottom: 1rem;">
     <p style="margin: 0; color: var(--text-color, #34495e);"><strong>Position:</strong> AIML Intern, Apple Foundation Model Team</p>
     <p style="margin: 0; color: var(--text-color, #34495e);"><strong>Mentor:</strong> Dongseong Hwang</p>
+    <p style="margin: 0; color: var(--text-color, #34495e);"><strong>Manager:</strong> Dr. Chung-Cheng Chiu</p>
     <p style="margin: 0 0 0.5rem 0; color: var(--text-muted, #7f8c8d);"><em>2026/May – 2026/Aug.</em></p>
     <p style="margin: 0; color: var(--text-color, #34495e);">Developed efficient attention algorithms for long-context foundation models.</p>
   </div>
@@ -181,18 +182,46 @@ redirect_from:
 
 ## Professional Service
 
-<div style="display: flex; gap: 2rem; margin-bottom: 2rem;">
-  <div style="flex: 1; background: var(--page__background-color, #ffffff); padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+<div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(220px, 1fr)); gap: 1.5rem; margin-bottom: 2rem;">
+  <div style="background: var(--page__background-color, #ffffff); padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
     <h4 style="color: var(--text-color, #2c3e50); margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem;">
       <strong>IEEE Micro 2025</strong>
     </h4>
     <p style="margin: 0; color: var(--text-color, #34495e);">Reviewer</p>
   </div>
 
-  <div style="flex: 1; background: var(--page__background-color, #ffffff); padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+  <div style="background: var(--page__background-color, #ffffff); padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
     <h4 style="color: var(--text-color, #2c3e50); margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem;">
       <strong>MLSys 2026</strong>
     </h4>
     <p style="margin: 0; color: var(--text-color, #34495e);">External Reviewer</p>
+  </div>
+
+  <div style="background: var(--page__background-color, #ffffff); padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+    <h4 style="color: var(--text-color, #2c3e50); margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem;">
+      <strong>IEEE Micro 2026</strong>
+    </h4>
+    <p style="margin: 0; color: var(--text-color, #34495e);">Reviewer</p>
+  </div>
+
+  <div style="background: var(--page__background-color, #ffffff); padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+    <h4 style="color: var(--text-color, #2c3e50); margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem;">
+      <strong>NeurIPS 2026</strong>
+    </h4>
+    <p style="margin: 0; color: var(--text-color, #34495e);">Reviewer</p>
+  </div>
+
+  <div style="background: var(--page__background-color, #ffffff); padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+    <h4 style="color: var(--text-color, #2c3e50); margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem;">
+      <strong>HPCA 2027</strong>
+    </h4>
+    <p style="margin: 0; color: var(--text-color, #34495e);">Reviewer</p>
+  </div>
+
+  <div style="background: var(--page__background-color, #ffffff); padding: 1.5rem; border-radius: 10px; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+    <h4 style="color: var(--text-color, #2c3e50); margin-top: 0; margin-bottom: 1rem; font-size: 1.1rem;">
+      <strong>TACO 2026</strong>
+    </h4>
+    <p style="margin: 0; color: var(--text-color, #34495e);">Reviewer</p>
   </div>
 </div>
